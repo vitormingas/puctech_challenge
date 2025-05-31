@@ -1,0 +1,23 @@
+# Ignorar arquivos grandes e desnecessários
+creditcard.csv
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Arquivos temporários de notebooks
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Jupyter runtime
+*.log
